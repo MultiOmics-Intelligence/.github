@@ -1,0 +1,118 @@
+<p align="center">
+  <a href="https://multiomicsintelligence.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/mi-banner-web.svg" alt="MultiOmics Intelligence: transforming biological data into intelligence" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://multiomicsintelligence.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-website.svg" alt="Website: multiomicsintelligence.co.uk" height="54"></a>
+  <a href="https://www.linkedin.com/company/multiomics-intelligence"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-linkedin.svg" alt="LinkedIn: MultiOmics Intelligence" height="54"></a>
+  <a href="https://www.instagram.com/multiomics_intelligence"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-instagram.svg" alt="Instagram: @multiomics_intelligence" height="54"></a>
+</p>
+
+<h3 align="center">Bioinformatics, multi-omics and AI solutions for biomedical research, drug discovery and precision health.</h3>
+
+<p align="center">We integrate genomics, transcriptomics, proteomics, clinical data and AI to accelerate discovery and improve human health. Based in London.</p>
+
+---
+
+## What we do
+
+| | Capability | What it means |
+|:-:|---|---|
+| <img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/icons/multi-omics.svg" width="52" height="52" alt=""> | **Omics & multi-omics analysis** | Integrated analysis across molecular layers |
+| <img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/icons/ai-machine-learning.svg" width="52" height="52" alt=""> | **AI & machine learning** | Turning complex data into predictive insights |
+| <img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/icons/biomarker-discovery.svg" width="52" height="52" alt=""> | **Biomarker discovery & validation** | Robust markers for precision health |
+| <img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/icons/drug-discovery.svg" width="52" height="52" alt=""> | **Drug discovery & target prioritisation** | Actionable targets, faster discovery |
+| <img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/icons/clinical-data.svg" width="52" height="52" alt=""> | **Clinical data & biostatistics** | Rigorous statistics for meaningful clinical evidence |
+| <img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/icons/public-datasets.svg" width="52" height="52" alt=""> | **Public dataset research** | New insights from existing research data |
+
+Explore our [Bioinformatics & AI solutions](https://multiomicsintelligence.co.uk/bioinformatics-ai-solutions), [consultancy](https://multiomicsintelligence.co.uk/consultancy) and [BioOmics Health & Longevity](https://multiomicsintelligence.co.uk/service-bioomics-health).
+
+### How we work
+
+**Discuss** your question and objectives → **Define** the data, scope and deliverables → **Deliver** the analysis or expert guidance → **Review** the findings and next steps.
+
+Every finding can be checked, validated and reproduced before it is reported.
+
+---
+
+## Education: LSMA
+
+<a href="https://lsma.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/lsma-walk-courses.svg" alt="LSMA, London School of Multiomics and AI: learn by doing, on real data" width="100%"></a>
+
+<p align="center">
+  <a href="https://lsma.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-lsma-website.svg" alt="LSMA: lsma.co.uk" height="54"></a>
+  <a href="https://www.linkedin.com/showcase/113252126/"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-lsma-linkedin.svg" alt="LSMA on LinkedIn" height="54"></a>
+  <a href="https://www.instagram.com/lsma.uk/"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-lsma-instagram.svg" alt="LSMA on Instagram: @lsma.uk" height="54"></a>
+  <a href="mailto:info@lsma.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-lsma-email.svg" alt="Email: info@lsma.co.uk" height="54"></a>
+</p>
+
+**LSMA, the London School of Multiomics & AI**, is our education arm. Every free-course project has its own starter repository here: open the project lesson on [lsma.co.uk](https://lsma.co.uk/courses), make your own copy, and an automatic check tells you when each task is right. Each course ends with an **independent project**: you choose the question and the public data, do the analysis yourself and write it up. It is the final lesson and part of earning the free certificate. **Introduction to AI in Healthcare** ends with a 3,000-word essay instead.
+
+New to GitHub? Start with **[lsma-github-practice](https://github.com/MultiOmics-Intelligence/lsma-github-practice)**.
+
+<details open>
+<summary><b>Omics, Bioinformatics and AI</b> · 6 projects + independent project</summary>
+
+| Module | Project |
+|:-:|---|
+| 3 | [FASTQ quality report](https://github.com/MultiOmics-Intelligence/lsma-course-omics-bioinformatics-and-ai-module-3-fastq-quality-report) |
+| 4 | [Identify an unknown protein](https://github.com/MultiOmics-Intelligence/lsma-course-omics-bioinformatics-and-ai-module-4-identify-unknown-protein) |
+| 5 | [RNA-seq: reads to counts](https://github.com/MultiOmics-Intelligence/lsma-course-omics-bioinformatics-and-ai-module-5-rnaseq-reads-to-counts) |
+| 6 | [Genome assembly: coverage and contiguity](https://github.com/MultiOmics-Intelligence/lsma-course-omics-bioinformatics-and-ai-module-6-genome-assembly) |
+| 7 | [Gene-set enrichment: from a gene list to biology](https://github.com/MultiOmics-Intelligence/lsma-course-omics-bioinformatics-and-ai-module-7-gene-set-enrichment) |
+| 8 | [Protein function prediction](https://github.com/MultiOmics-Intelligence/lsma-course-omics-bioinformatics-and-ai-module-8-protein-function-prediction) |
+| Final | [**Independent project**: your own question, public data, an honest report](https://github.com/MultiOmics-Intelligence/lsma-course-omics-bioinformatics-and-ai-independent-project) |
+
+</details>
+
+<details open>
+<summary><b>Introduction to Python</b> · 4 projects + independent project</summary>
+
+| Module | Project |
+|:-:|---|
+| 1 | [A sequence and sample report](https://github.com/MultiOmics-Intelligence/lsma-course-introduction-to-python-module-1-sequence-report) |
+| 2 | [Honest figures: remake a figure](https://github.com/MultiOmics-Intelligence/lsma-course-introduction-to-python-module-2-honest-figures) |
+| 3 | [A tested tool](https://github.com/MultiOmics-Intelligence/lsma-course-introduction-to-python-module-3-tested-tool) |
+| 4 | [Predicting diabetes progression](https://github.com/MultiOmics-Intelligence/lsma-course-introduction-to-python-module-4-diabetes-progression-ml) |
+| Final | [**Independent project**: your own question, a fair ML analysis, a written report](https://github.com/MultiOmics-Intelligence/lsma-course-introduction-to-python-independent-project) |
+
+</details>
+
+<details open>
+<summary><b>Introduction to R</b> · 3 projects + independent project</summary>
+
+| Module | Project |
+|:-:|---|
+| 2 | [Risk factors for low birth weight](https://github.com/MultiOmics-Intelligence/lsma-course-introduction-to-r-module-2-birth-weight-regression) |
+| 3 | [Honest figures: remake a figure](https://github.com/MultiOmics-Intelligence/lsma-course-introduction-to-r-module-3-honest-figures) |
+| 4 | [Differential expression: counts to results](https://github.com/MultiOmics-Intelligence/lsma-course-introduction-to-r-module-4-differential-expression) |
+| Final | [**Independent project**: your own question, honest figures, a reproducible report](https://github.com/MultiOmics-Intelligence/lsma-course-introduction-to-r-independent-project) |
+
+</details>
+
+**Professional diplomas** in Cancer Intelligence & AI Drug Discovery, AI, Machine Learning & Data Science, and Longevity Science & AI have private repositories for enrolled students. See [lsma.co.uk](https://lsma.co.uk).
+
+---
+
+## Research & insights
+
+Weekly scientific updates and in-depth analysis: read this week's [Weekly Research Intelligence](https://multiomicsintelligence.co.uk/research-insights).
+
+## Work with us
+
+What are you working on? [Start a conversation](https://multiomicsintelligence.co.uk/contact-page) about your research question and the support you need. Students and course questions: **info@lsma.co.uk**.
+
+<p align="center">
+  <a href="https://multiomicsintelligence.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-website.svg" alt="Website: multiomicsintelligence.co.uk" height="54"></a>
+  <a href="https://www.linkedin.com/company/multiomics-intelligence"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-linkedin.svg" alt="LinkedIn: MultiOmics Intelligence" height="54"></a>
+  <a href="https://www.instagram.com/multiomics_intelligence"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-instagram.svg" alt="Instagram: @multiomics_intelligence" height="54"></a>
+</p>
+
+---
+
+**Dr. Anas Alzaeem**<br>
+Founder & CEO, MultiOmics Intelligence
+
+[![Dr. Anas Alzaeem, Founder & CEO, MultiOmics Intelligence](https://raw.githubusercontent.com/LSMA2026/brand-assets/main/signature/MI_Banner_Anas_Alzaeem.png)](https://multiomicsintelligence.co.uk)
+
+<sub>© 2026 MultiOmics Intelligence Ltd · Science for better health.</sub>

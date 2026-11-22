@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask for help with a project
+    url: https://lsma.co.uk/contact
+    about: Questions about your own project work go to the LSMA team, not public issues.
