@@ -94,6 +94,56 @@ New to GitHub? Start with **[lsma-github-practice](https://github.com/MultiOmics
 
 ---
 
+## Internship programme: MultiOmicsFlow
+
+<p align="center"><i>Real multi-omics research on public cancer data, built step by step, reviewed at every stage, and presented to the team.</i></p>
+
+Our interns build a complete, reproducible **multi-omics workflow** on public cancer data (TCGA and GEO), one molecular layer at a time, and learn the habits of careful computational research along the way.
+
+### The project, layer by layer
+
+| Stage | Layer | What interns learn |
+|:-:|---|---|
+| 1 | **Clinical and genomic data** | Cohort building from GDC and cBioPortal, survival endpoints, mutation processing, patient matching, a survival baseline |
+| 2 | **DNA methylation** | Sample and probe filtering, batch and plate checks, methylation as a survival layer |
+| 3 | **Bulk RNA-seq** | Quality control, normalisation, differential expression, pathway analysis, RNA as a survival layer |
+| 3B | **Single-cell RNA-seq** | Quality control and doublet removal, clustering, cell-type annotation, pseudobulk differential expression, and the link to the bulk RNA results |
+| 4 | **Multi-omics integration** | MOFA across mutation, methylation and RNA, interpreting factors, then a presentation of the whole project |
+| 5 | **Proteomics** | Protein as a further layer, and in the integration |
+
+Every intern works in their own **private** repository, with a written technical review, ready-made fixes and a step-by-step plan. The same standards apply throughout: everything learned inside the training folds, the same patients and folds for every comparison, an interval for every gain, and a result of no gain reported as plainly as a gain.
+
+### Alongside the project
+
+| Activity | How often | What interns do |
+|---|---|---|
+| **Weekly Research Intelligence** | Every week | One new paper, one method and one hands-on exercise in R or Python. Interns fork the exercises and keep a record of their answers and plots |
+| **Literature review** | One per project | A structured review of their project's question: search, screen, summarise and identify the gap, written up with references |
+| **Journal club** | Regular | Interns take turns presenting a recent paper, then the group appraises its design, statistics and claims together |
+| **Workshops** | Regular | Hands-on group sessions on core skills, for example an RNA-seq pipeline in Python, GitHub and code review, and reproducible workflows with Docker and Nextflow |
+| **Technical reviews** | At each stage | Written feedback on the code and results, with ready-made fixes, before each stage is merged |
+| **Presentations** | At key milestones | Interns present their results to the team, and at the end of the programme they present the whole project |
+| **Science communication** | Ongoing | Turning results into clear summaries and posts for a wider audience |
+
+### Skills interns build
+
+| Area | Skills |
+|---|---|
+| **Programming** | Python (pandas, scikit-learn, PyTorch) and R (tidyverse, Bioconductor), clean and tested code, notebooks that run from top to bottom |
+| **Bioinformatics** | GDC, cBioPortal and GEO data, mutation (MAF) processing, 450K methylation, DESeq2 and PyDESeq2, GSEA and over-representation analysis, Seurat and Scanpy, MOFA |
+| **Statistics** | Survival analysis (Kaplan–Meier, Cox, C-index), multiple testing and FDR, calibration, confidence intervals, corrected intervals for repeated cross-validation |
+| **Machine learning and AI** | Penalised models, random forests and gradient boosting, neural survival models, nested cross-validation without leakage, explainability (SHAP, integrated gradients) |
+| **Reproducibility** | Git and GitHub (branches, pull requests, code review), config-driven pipelines, conda and renv, Docker, Nextflow, checksums and data provenance |
+| **Research practice** | Literature review, critical appraisal of papers, study design, honest reporting of negative results, data protection with patient data |
+| **Communication** | Scientific writing, technical reports, presentations, journal club discussion, and explaining results to a non-specialist audience |
+| **Professional skills** | Planning work in stages, agile project management, working from review feedback, and collaborating in a team |
+
+**Interns:** your project and the weekly exercises are listed under [**Internship repositories**](https://github.com/orgs/MultiOmics-Intelligence/repositories?q=topic%3Ainternship). You'll see only the repositories you have access to.
+
+Interested in an internship? Contact **info@lsma.co.uk**.
+
+---
+
 ## Research & insights
 
 Weekly scientific updates and in-depth analysis: read this week's [Weekly Research Intelligence](https://multiomicsintelligence.co.uk/research-insights).
