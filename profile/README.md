@@ -124,13 +124,18 @@ Every intern works in their own **private** repository, with a written technical
 | **Technical reviews** | At each stage | Written feedback on the code and results, with ready-made fixes, before each stage is merged |
 | **Presentations** | At key milestones | Interns present their results to the team, and at the end of the programme they present the whole project |
 | **Science communication** | Ongoing | Turning results into clear summaries and posts for a wider audience |
+| **Research reviews** | During the internship | Referenced written reviews of at least 3,000 words: on the field itself, and on choosing the right AI and machine-learning methods for different types of omics data |
+| **Applied mini-projects** | During the internship | Short hands-on projects: building an interactive data-exploration app in Python, and an exploratory bioinformatics analysis using public databases, pathway enrichment and interaction networks |
+| **Advanced challenges** | Optional | Open modelling problems that bring together biochemistry, biomarkers and statistics, for interns who want to go further |
+
+All work, from the project to every task, is submitted on GitHub through pull requests and reviewed before it is merged.
 
 ### Skills interns build
 
 | Area | Skills |
 |---|---|
-| **Programming** | Python (pandas, scikit-learn, PyTorch) and R (tidyverse, Bioconductor), clean and tested code, notebooks that run from top to bottom |
-| **Bioinformatics** | GDC, cBioPortal and GEO data, mutation (MAF) processing, 450K methylation, DESeq2 and PyDESeq2, GSEA and over-representation analysis, Seurat and Scanpy, MOFA |
+| **Programming** | Python (pandas, scikit-learn, PyTorch) and R (tidyverse, Bioconductor), clean and tested code, notebooks that run from top to bottom, interactive web apps for exploring data |
+| **Bioinformatics** | GDC, cBioPortal and GEO data, mutation (MAF) processing, 450K methylation, DESeq2 and PyDESeq2, GSEA and over-representation analysis, Seurat and Scanpy, MOFA, public compound, pathway and protein-interaction databases, network analysis |
 | **Statistics** | Survival analysis (Kaplan–Meier, Cox, C-index), multiple testing and FDR, calibration, confidence intervals, corrected intervals for repeated cross-validation |
 | **Machine learning and AI** | Penalised models, random forests and gradient boosting, neural survival models, nested cross-validation without leakage, explainability (SHAP, integrated gradients) |
 | **Reproducibility** | Git and GitHub (branches, pull requests, code review), config-driven pipelines, conda and renv, Docker, Nextflow, checksums and data provenance |
