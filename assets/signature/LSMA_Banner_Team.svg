@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="520" viewBox="0 0 2400 520" role="img" aria-label="The LSMA Team, London School of Multiomics and AI">
+  <title>The LSMA Team — London School of Multiomics &amp; AI</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0" stop-color="#0B1426"/>
+      <stop offset="0.45" stop-color="#171A38"/>
+      <stop offset="0.78" stop-color="#2A1A3E"/>
+      <stop offset="1" stop-color="#3B1C3C"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F2A08A"/>
+      <stop offset="1" stop-color="#F06A42"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F06A42" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F06A42" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F06A42" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ma" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6F2EA"/>
+      <stop offset="1" stop-color="#C9CEDA"/>
+    </linearGradient>
+    <linearGradient id="mb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F2A08A"/>
+      <stop offset="1" stop-color="#F06A42"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F06A42" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F06A42" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect x="0" y="0" width="2400" height="520" rx="34"/></clipPath>
+    <g id="helix">
+      <circle cx="90" cy="15" r="6.5" fill="url(#ma)"/>
+      <circle cx="84.3" cy="33" r="6.5" fill="url(#ma)"/>
+      <circle cx="69.3" cy="51" r="6.5" fill="url(#ma)"/>
+      <circle cx="50.7" cy="69" r="6.5" fill="url(#ma)"/>
+      <circle cx="35.7" cy="87" r="6.5" fill="url(#ma)"/>
+      <circle cx="30" cy="105" r="6.5" fill="url(#ma)"/>
+      <circle cx="30" cy="15" r="6.5" fill="url(#mb)"/>
+      <circle cx="35.7" cy="33" r="6.5" fill="url(#mb)"/>
+      <circle cx="50.7" cy="51" r="6.5" fill="url(#mb)"/>
+      <circle cx="69.3" cy="69" r="6.5" fill="url(#mb)"/>
+      <circle cx="84.3" cy="87" r="6.5" fill="url(#mb)"/>
+      <circle cx="90" cy="105" r="6.5" fill="url(#mb)"/>
+    </g>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="2400" height="520" fill="url(#bg)"/>
+
+    <!-- faint bases, same motif as the house banner -->
+    <g fill="#F6F2EA" opacity="0.055" font-family="Menlo, Consolas, monospace" font-size="40">
+      <text x="128" y="70">C</text><text x="402" y="48">G</text><text x="600" y="92">T</text>
+      <text x="836" y="54">G</text><text x="1052" y="96">C</text><text x="1268" y="44">A</text>
+      <text x="1466" y="88">C</text><text x="1700" y="52">G</text><text x="1930" y="96">T</text>
+      <text x="2180" y="58">T</text><text x="2318" y="104">C</text>
+      <text x="556" y="196">A</text><text x="1024" y="186">C</text><text x="1596" y="176">A</text>
+      <text x="2072" y="206">G</text><text x="2248" y="252">A</text>
+      <text x="462" y="330">G</text><text x="904" y="356">T</text><text x="1140" y="300">A</text>
+      <text x="1724" y="326">C</text><text x="2016" y="288">T</text><text x="2300" y="344">C</text>
+      <text x="196" y="448">G</text><text x="520" y="486">T</text><text x="760" y="440">A</text>
+      <text x="1056" y="476">G</text><text x="1312" y="444">T</text><text x="1588" y="482">A</text>
+      <text x="1884" y="452">G</text><text x="2156" y="488">C</text>
+    </g>
+
+    <circle cx="282" cy="260" r="300" fill="url(#glow)"/>
+
+    <!-- emblem: the mark where the portrait sits on the personal banner -->
+    <circle cx="282" cy="260" r="162" fill="#0D1530"/>
+    <circle cx="282" cy="260" r="162" fill="none" stroke="url(#ring)" stroke-width="11"/>
+    <g transform="translate(186,164) scale(1.6)"><use href="#helix"/></g>
+
+    <text x="520" y="214" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#F6F2EA">The LSMA Team</text>
+    <text x="524" y="290" font-family="Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="600" fill="#C9CEDA">Analysis Lab · London School of Multiomics &amp; AI</text>
+    <text x="524" y="392" font-family="Menlo, Consolas, monospace" font-size="36" letter-spacing="7" fill="#F06A42">MULTI-OMICS · BIOINFORMATICS · AI</text>
+
+    <rect x="1726" y="104" width="3" height="312" fill="url(#rule)"/>
+
+    <g transform="translate(1820,150) scale(0.80)"><use href="#helix"/></g>
+    <text x="1952" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#F6F2EA">LSMA</text>
+    <text x="1956" y="268" font-family="Helvetica Neue, Arial, sans-serif" font-size="26" letter-spacing="3.4" fill="#C9CEDA">LONDON SCHOOL OF MULTIOMICS &amp; AI</text>
+    <text x="1822" y="390" font-family="Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#F06A42">lsma.co.uk</text>
+  </g>
+</svg>
