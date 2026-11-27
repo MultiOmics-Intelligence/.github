@@ -71,14 +71,14 @@
     <g transform="translate(186,164) scale(1.6)"><use href="#helix"/></g>
 
     <text x="520" y="214" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#F6F2EA">The LSMA Team</text>
-    <text x="524" y="290" font-family="Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="600" fill="#C9CEDA">Analysis Lab · London School of Multiomics &amp; AI</text>
+    <text x="524" y="288" font-family="Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="600" fill="#C9CEDA">Analysis Lab · London School of Multiomics &amp; AI</text>
     <text x="524" y="392" font-family="Menlo, Consolas, monospace" font-size="36" letter-spacing="7" fill="#F06A42">MULTI-OMICS · BIOINFORMATICS · AI</text>
 
-    <rect x="1726" y="104" width="3" height="312" fill="url(#rule)"/>
+    <rect x="1600" y="104" width="3" height="312" fill="url(#rule)"/>
 
-    <g transform="translate(1820,150) scale(0.80)"><use href="#helix"/></g>
-    <text x="1952" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#F6F2EA">LSMA</text>
-    <text x="1956" y="268" font-family="Helvetica Neue, Arial, sans-serif" font-size="26" letter-spacing="3.4" fill="#C9CEDA">LONDON SCHOOL OF MULTIOMICS &amp; AI</text>
-    <text x="1822" y="390" font-family="Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#F06A42">lsma.co.uk</text>
+    <g transform="translate(1664,150) scale(0.80)"><use href="#helix"/></g>
+    <text x="1800" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#F6F2EA">LSMA</text>
+    <text x="1804" y="266" font-family="Helvetica Neue, Arial, sans-serif" font-size="22" letter-spacing="3.1" fill="#C9CEDA">LONDON SCHOOL OF MULTIOMICS &amp; AI</text>
+    <text x="1802" y="390" font-family="Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#F06A42">lsma.co.uk</text>
   </g>
 </svg>
