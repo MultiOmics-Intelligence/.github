@@ -1,83 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="520" viewBox="0 0 2400 520" role="img" aria-label="The LSMA Team, London School of Multiomics and AI">
-  <title>The LSMA Team — London School of Multiomics &amp; AI</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="520" viewBox="0 0 2400 520" role="img" aria-label="The LSMA Team, Analysis Lab, London School of Multiomics and AI">
+  <title>The LSMA Team — Analysis Lab</title>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.35">
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.4">
       <stop offset="0" stop-color="#0B1426"/>
-      <stop offset="0.45" stop-color="#171A38"/>
-      <stop offset="0.78" stop-color="#2A1A3E"/>
+      <stop offset="0.42" stop-color="#151A36"/>
+      <stop offset="0.74" stop-color="#271A3D"/>
       <stop offset="1" stop-color="#3B1C3C"/>
     </linearGradient>
-    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="ring" x1="0" y1="0" x2="0.9" y2="1">
       <stop offset="0" stop-color="#F2A08A"/>
       <stop offset="1" stop-color="#F06A42"/>
+    </linearGradient>
+    <linearGradient id="ma" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6F2EA"/><stop offset="1" stop-color="#C9CEDA"/>
+    </linearGradient>
+    <linearGradient id="mb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F2A08A"/><stop offset="1" stop-color="#F06A42"/>
     </linearGradient>
     <linearGradient id="rule" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#F06A42" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#F06A42" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#F06A42" stop-opacity="0.85"/>
       <stop offset="1" stop-color="#F06A42" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="ma" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F6F2EA"/>
-      <stop offset="1" stop-color="#C9CEDA"/>
+    <linearGradient id="underline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F06A42"/>
+      <stop offset="1" stop-color="#F06A42" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="mb" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F2A08A"/>
-      <stop offset="1" stop-color="#F06A42"/>
+    <linearGradient id="strandA" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F2A08A" stop-opacity="0.30"/>
+      <stop offset="0.55" stop-color="#27D7BB" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#F2A08A" stop-opacity="0.14"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#F06A42" stop-opacity="0.22"/>
+    <radialGradient id="warm" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F06A42" stop-opacity="0.26"/>
       <stop offset="1" stop-color="#F06A42" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="cool" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#27D7BB" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#27D7BB" stop-opacity="0"/>
+    </radialGradient>
     <clipPath id="card"><rect x="0" y="0" width="2400" height="520" rx="34"/></clipPath>
-    <g id="helix">
-      <circle cx="90" cy="15" r="6.5" fill="url(#ma)"/>
-      <circle cx="84.3" cy="33" r="6.5" fill="url(#ma)"/>
-      <circle cx="69.3" cy="51" r="6.5" fill="url(#ma)"/>
-      <circle cx="50.7" cy="69" r="6.5" fill="url(#ma)"/>
-      <circle cx="35.7" cy="87" r="6.5" fill="url(#ma)"/>
-      <circle cx="30" cy="105" r="6.5" fill="url(#ma)"/>
-      <circle cx="30" cy="15" r="6.5" fill="url(#mb)"/>
-      <circle cx="35.7" cy="33" r="6.5" fill="url(#mb)"/>
-      <circle cx="50.7" cy="51" r="6.5" fill="url(#mb)"/>
-      <circle cx="69.3" cy="69" r="6.5" fill="url(#mb)"/>
-      <circle cx="84.3" cy="87" r="6.5" fill="url(#mb)"/>
-      <circle cx="90" cy="105" r="6.5" fill="url(#mb)"/>
-    </g>
+    <g id="mark"><circle cx="90" cy="15" r="6.5" fill="url(#ma)"/><circle cx="84.3" cy="33" r="6.5" fill="url(#ma)"/><circle cx="69.3" cy="51" r="6.5" fill="url(#ma)"/><circle cx="50.7" cy="69" r="6.5" fill="url(#ma)"/><circle cx="35.7" cy="87" r="6.5" fill="url(#ma)"/><circle cx="30" cy="105" r="6.5" fill="url(#ma)"/><circle cx="30" cy="15" r="6.5" fill="url(#mb)"/><circle cx="35.7" cy="33" r="6.5" fill="url(#mb)"/><circle cx="50.7" cy="51" r="6.5" fill="url(#mb)"/><circle cx="69.3" cy="69" r="6.5" fill="url(#mb)"/><circle cx="84.3" cy="87" r="6.5" fill="url(#mb)"/><circle cx="90" cy="105" r="6.5" fill="url(#mb)"/></g>
   </defs>
 
   <g clip-path="url(#card)">
-    <rect x="0" y="0" width="2400" height="520" fill="url(#bg)"/>
+    <rect width="2400" height="520" fill="url(#bg)"/>
+    <ellipse cx="300" cy="300" rx="560" ry="420" fill="url(#warm)"/>
+    <ellipse cx="2080" cy="150" rx="620" ry="420" fill="url(#cool)"/>
 
-    <!-- faint bases, same motif as the house banner -->
-    <g fill="#F6F2EA" opacity="0.055" font-family="Menlo, Consolas, monospace" font-size="40">
-      <text x="128" y="70">C</text><text x="402" y="48">G</text><text x="600" y="92">T</text>
-      <text x="836" y="54">G</text><text x="1052" y="96">C</text><text x="1268" y="44">A</text>
-      <text x="1466" y="88">C</text><text x="1700" y="52">G</text><text x="1930" y="96">T</text>
-      <text x="2180" y="58">T</text><text x="2318" y="104">C</text>
-      <text x="556" y="196">A</text><text x="1024" y="186">C</text><text x="1596" y="176">A</text>
-      <text x="2072" y="206">G</text><text x="2248" y="252">A</text>
-      <text x="462" y="330">G</text><text x="904" y="356">T</text><text x="1140" y="300">A</text>
-      <text x="1724" y="326">C</text><text x="2016" y="288">T</text><text x="2300" y="344">C</text>
-      <text x="196" y="448">G</text><text x="520" y="486">T</text><text x="760" y="440">A</text>
-      <text x="1056" y="476">G</text><text x="1312" y="444">T</text><text x="1588" y="482">A</text>
-      <text x="1884" y="452">G</text><text x="2156" y="488">C</text>
+    <!-- one continuous helix behind everything, in place of scattered letters -->
+    <g opacity="0.5">
+      <path d="M-60,197.2 L-40,217.1 L-20,238.3 L0,260.0 L20,281.7 L40,302.9 L60,322.8 L80,341.1 L100,357.1 L120,370.5 L140,380.9 L160,388.0 L180,391.5 L200,391.5 L220,388.0 L240,380.9 L260,370.5 L280,357.1 L300,341.1 L320,322.8 L340,302.9 L360,281.7 L380,260.0 L400,238.3 L420,217.1 L440,197.2 L460,178.9 L480,162.9 L500,149.5 L520,139.1 L540,132.0 L560,128.5 L580,128.5 L600,132.0 L620,139.1 L640,149.5 L660,162.9 L680,178.9 L700,197.2 L720,217.1 L740,238.3 L760,260.0 L780,281.7 L800,302.9 L820,322.8 L840,341.1 L860,357.1 L880,370.5 L900,380.9 L920,388.0 L940,391.5 L960,391.5 L980,388.0 L1000,380.9 L1020,370.5 L1040,357.1 L1060,341.1 L1080,322.8 L1100,302.9 L1120,281.7 L1140,260.0 L1160,238.3 L1180,217.1 L1200,197.2 L1220,178.9 L1240,162.9 L1260,149.5 L1280,139.1 L1300,132.0 L1320,128.5 L1340,128.5 L1360,132.0 L1380,139.1 L1400,149.5 L1420,162.9 L1440,178.9 L1460,197.2 L1480,217.1 L1500,238.3 L1520,260.0 L1540,281.7 L1560,302.9 L1580,322.8 L1600,341.1 L1620,357.1 L1640,370.5 L1660,380.9 L1680,388.0 L1700,391.5 L1720,391.5 L1740,388.0 L1760,380.9 L1780,370.5 L1800,357.1 L1820,341.1 L1840,322.8 L1860,302.9 L1880,281.7 L1900,260.0 L1920,238.3 L1940,217.1 L1960,197.2 L1980,178.9 L2000,162.9 L2020,149.5 L2040,139.1 L2060,132.0 L2080,128.5 L2100,128.5 L2120,132.0 L2140,139.1 L2160,149.5 L2180,162.9 L2200,178.9 L2220,197.2 L2240,217.1 L2260,238.3 L2280,260.0 L2300,281.7 L2320,302.9 L2340,322.8 L2360,341.1 L2380,357.1 L2400,370.5 L2420,380.9 L2440,388.0 L2460,391.5" fill="none" stroke="url(#strandA)" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M-60,322.8 L-40,302.9 L-20,281.7 L0,260.0 L20,238.3 L40,217.1 L60,197.2 L80,178.9 L100,162.9 L120,149.5 L140,139.1 L160,132.0 L180,128.5 L200,128.5 L220,132.0 L240,139.1 L260,149.5 L280,162.9 L300,178.9 L320,197.2 L340,217.1 L360,238.3 L380,260.0 L400,281.7 L420,302.9 L440,322.8 L460,341.1 L480,357.1 L500,370.5 L520,380.9 L540,388.0 L560,391.5 L580,391.5 L600,388.0 L620,380.9 L640,370.5 L660,357.1 L680,341.1 L700,322.8 L720,302.9 L740,281.7 L760,260.0 L780,238.3 L800,217.1 L820,197.2 L840,178.9 L860,162.9 L880,149.5 L900,139.1 L920,132.0 L940,128.5 L960,128.5 L980,132.0 L1000,139.1 L1020,149.5 L1040,162.9 L1060,178.9 L1080,197.2 L1100,217.1 L1120,238.3 L1140,260.0 L1160,281.7 L1180,302.9 L1200,322.8 L1220,341.1 L1240,357.1 L1260,370.5 L1280,380.9 L1300,388.0 L1320,391.5 L1340,391.5 L1360,388.0 L1380,380.9 L1400,370.5 L1420,357.1 L1440,341.1 L1460,322.8 L1480,302.9 L1500,281.7 L1520,260.0 L1540,238.3 L1560,217.1 L1580,197.2 L1600,178.9 L1620,162.9 L1640,149.5 L1660,139.1 L1680,132.0 L1700,128.5 L1720,128.5 L1740,132.0 L1760,139.1 L1780,149.5 L1800,162.9 L1820,178.9 L1840,197.2 L1860,217.1 L1880,238.3 L1900,260.0 L1920,281.7 L1940,302.9 L1960,322.8 L1980,341.1 L2000,357.1 L2020,370.5 L2040,380.9 L2060,388.0 L2080,391.5 L2100,391.5 L2120,388.0 L2140,380.9 L2160,370.5 L2180,357.1 L2200,341.1 L2220,322.8 L2240,302.9 L2260,281.7 L2280,260.0 L2300,238.3 L2320,217.1 L2340,197.2 L2360,178.9 L2380,162.9 L2400,149.5 L2420,139.1 L2440,132.0 L2460,128.5" fill="none" stroke="url(#strandA)" stroke-width="3.5" stroke-linecap="round"/>
+      <g stroke="#F2A08A" stroke-opacity="0.13" stroke-width="2.4">
+      <line x1="-60" y1="197.2" x2="-60" y2="322.8"/>
+      <line x1="35" y1="297.7" x2="35" y2="222.3"/>
+      <line x1="130" y1="376.1" x2="130" y2="143.9"/>
+      <line x1="225" y1="386.5" x2="225" y2="133.5"/>
+      <line x1="320" y1="322.8" x2="320" y2="197.2"/>
+      <line x1="415" y1="222.3" x2="415" y2="297.7"/>
+      <line x1="510" y1="143.9" x2="510" y2="376.1"/>
+      <line x1="605" y1="133.5" x2="605" y2="386.5"/>
+      <line x1="700" y1="197.2" x2="700" y2="322.8"/>
+      <line x1="795" y1="297.7" x2="795" y2="222.3"/>
+      <line x1="890" y1="376.1" x2="890" y2="143.9"/>
+      <line x1="985" y1="386.5" x2="985" y2="133.5"/>
+      <line x1="1080" y1="322.8" x2="1080" y2="197.2"/>
+      <line x1="1175" y1="222.3" x2="1175" y2="297.7"/>
+      <line x1="1270" y1="143.9" x2="1270" y2="376.1"/>
+      <line x1="1365" y1="133.5" x2="1365" y2="386.5"/>
+      <line x1="1460" y1="197.2" x2="1460" y2="322.8"/>
+      <line x1="1555" y1="297.7" x2="1555" y2="222.3"/>
+      <line x1="1650" y1="376.1" x2="1650" y2="143.9"/>
+      <line x1="1745" y1="386.5" x2="1745" y2="133.5"/>
+      <line x1="1840" y1="322.8" x2="1840" y2="197.2"/>
+      <line x1="1935" y1="222.3" x2="1935" y2="297.7"/>
+      <line x1="2030" y1="143.9" x2="2030" y2="376.1"/>
+      <line x1="2125" y1="133.5" x2="2125" y2="386.5"/>
+      <line x1="2220" y1="197.2" x2="2220" y2="322.8"/>
+      <line x1="2315" y1="297.7" x2="2315" y2="222.3"/>
+      <line x1="2410" y1="376.1" x2="2410" y2="143.9"/>
+      </g>
     </g>
 
-    <circle cx="282" cy="260" r="300" fill="url(#glow)"/>
+    <!-- the mark, where the portrait sits on the personal banner -->
+    <circle cx="282" cy="260" r="152" fill="#0C1430" fill-opacity="0.92"/>
+    <circle cx="282" cy="260" r="152" fill="none" stroke="url(#ring)" stroke-width="10"/>
+    <g transform="translate(192,170) scale(1.5)"><use href="#mark"/></g>
 
-    <!-- emblem: the mark where the portrait sits on the personal banner -->
-    <circle cx="282" cy="260" r="162" fill="#0D1530"/>
-    <circle cx="282" cy="260" r="162" fill="none" stroke="url(#ring)" stroke-width="11"/>
-    <g transform="translate(186,164) scale(1.6)"><use href="#helix"/></g>
+    <text x="524" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="108" fill="#F6F2EA">The LSMA Team</text>
+    <rect x="528" y="256" width="236" height="4" rx="2" fill="url(#underline)"/>
+    <text x="526" y="320" font-family="Helvetica Neue, Arial, sans-serif" font-size="40" font-weight="600" fill="#C9CEDA">Analysis Lab · London School of Multiomics &amp; AI</text>
+    <text x="528" y="400" font-family="Menlo, Consolas, monospace" font-size="31" letter-spacing="6.4" fill="#F06A42">MULTI-OMICS · BIOINFORMATICS · AI</text>
 
-    <text x="520" y="214" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#F6F2EA">The LSMA Team</text>
-    <text x="524" y="288" font-family="Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="600" fill="#C9CEDA">Analysis Lab · London School of Multiomics &amp; AI</text>
-    <text x="524" y="392" font-family="Menlo, Consolas, monospace" font-size="36" letter-spacing="7" fill="#F06A42">MULTI-OMICS · BIOINFORMATICS · AI</text>
-
-    <rect x="1570" y="104" width="3" height="312" fill="url(#rule)"/>
-
-    <g transform="translate(1672,178) scale(0.90)"><use href="#helix"/></g>
-    <text x="1826" y="248" font-family="Georgia, 'Times New Roman', serif" font-size="112" fill="#F6F2EA">LSMA</text>
-    <text x="1830" y="348" font-family="Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#F06A42">lsma.co.uk</text>
+    <rect x="1800" y="112" width="3" height="296" fill="url(#rule)"/>
+    <text x="1898" y="250" font-family="Georgia, 'Times New Roman', serif" font-size="116" fill="#F6F2EA">LSMA</text>
+    <text x="1902" y="336" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#F06A42">lsma.co.uk</text>
   </g>
 </svg>
