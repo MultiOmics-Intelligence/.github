@@ -6,6 +6,7 @@
   <a href="https://multiomicsintelligence.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-website.svg" alt="Website: multiomicsintelligence.co.uk" height="54"></a>
   <a href="https://www.linkedin.com/company/multiomics-intelligence"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-linkedin.svg" alt="LinkedIn: MultiOmics Intelligence" height="54"></a>
   <a href="https://www.instagram.com/multiomics_intelligence"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-instagram.svg" alt="Instagram: @multiomics_intelligence" height="54"></a>
+  <a href="mailto:info@multiomicsintelligence.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-email.svg" alt="Email: info@multiomicsintelligence.co.uk" height="54"></a>
 </p>
 
 <h3 align="center">Bioinformatics, multi-omics and AI solutions for biomedical research, drug discovery and precision health.</h3>
@@ -155,12 +156,13 @@ Weekly scientific updates and in-depth analysis: read this week's [Weekly Resear
 
 ## Work with us
 
-What are you working on? [Start a conversation](https://multiomicsintelligence.co.uk/contact-page) about your research question and the support you need. Students and course questions: **info@lsma.co.uk**.
+What are you working on? [Start a conversation](https://multiomicsintelligence.co.uk/contact-page) about your research question and the support you need, or email us at **info@multiomicsintelligence.co.uk**. Students and course questions: **info@lsma.co.uk**.
 
 <p align="center">
   <a href="https://multiomicsintelligence.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-website.svg" alt="Website: multiomicsintelligence.co.uk" height="54"></a>
   <a href="https://www.linkedin.com/company/multiomics-intelligence"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-linkedin.svg" alt="LinkedIn: MultiOmics Intelligence" height="54"></a>
   <a href="https://www.instagram.com/multiomics_intelligence"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-instagram.svg" alt="Instagram: @multiomics_intelligence" height="54"></a>
+  <a href="mailto:info@multiomicsintelligence.co.uk"><img src="https://raw.githubusercontent.com/MultiOmics-Intelligence/.github/main/assets/btn-mi-email.svg" alt="Email: info@multiomicsintelligence.co.uk" height="54"></a>
 </p>
 
 ---
