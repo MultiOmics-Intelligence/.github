@@ -76,9 +76,8 @@
 
     <rect x="1570" y="104" width="3" height="312" fill="url(#rule)"/>
 
-    <g transform="translate(1630,150) scale(0.80)"><use href="#helix"/></g>
-    <text x="1766" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="104" fill="#F6F2EA">LSMA</text>
-    <text x="1770" y="266" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" letter-spacing="2.8" fill="#C9CEDA">LONDON SCHOOL OF MULTIOMICS &amp; AI</text>
-    <text x="1768" y="390" font-family="Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#F06A42">lsma.co.uk</text>
+    <g transform="translate(1672,178) scale(0.90)"><use href="#helix"/></g>
+    <text x="1826" y="248" font-family="Georgia, 'Times New Roman', serif" font-size="112" fill="#F6F2EA">LSMA</text>
+    <text x="1830" y="348" font-family="Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="700" fill="#F06A42">lsma.co.uk</text>
   </g>
 </svg>
